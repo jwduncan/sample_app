@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'rails-html-sanitizer'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
+gem 'bcrypt'
 
 group :development, :test do
   gem 'sqlite3'
